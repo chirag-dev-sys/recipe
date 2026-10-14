@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    background-color: black;
+    text-align: center; 
+}
+.box, .cardbox{
+    width: 1170px;
+    border: 1px red solid;
+    margin: auto;
+}
+.box h1{
+    text-align: center;
+    padding-top: 30px;
+    color: blue;
+}
+.box p{
+    text-align: center;
+    font-weight: bold;
+}
+button{border: none;
+padding:10px
+color: blue
+
+}

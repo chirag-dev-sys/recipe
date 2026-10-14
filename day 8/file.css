@@ -1,0 +1,15 @@
+.main {
+    width: 1000px;
+    height: 700px;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 50px; 
+    margin: 20px 50px;
+text-align: center;
+text-decoration: dotted; 
+text-transform: uppercase;
+padding-top: 50px;
+word-wrap: break-word;
+}
+/* .r1{
+    width: 100px; height: 100px; background-color: rgb(12, 228, 167);} */
